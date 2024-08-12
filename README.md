@@ -1,5 +1,5 @@
 # standrewsdissertation
-This code is for my MSc Data-Intensive Analysis dissertation entitled _"Convolutional Neural Networks for the Classification of Pseudorca crassidens Passive Acoustic Data"_. The latest version can be found in https://github.com/josh-arrabaca/standrewsdissertation/releases/tag/Submissionv2.
+This code is for my MSc Data-Intensive Analysis dissertation entitled _"Convolutional Neural Networks for the Classification of Pseudorca crassidens Passive Acoustic Data"_. The latest version can be found in https://github.com/josh-arrabaca/standrewsdissertation/releases/tag/Submission2.
 
 To run these, please ensure the code is in the top folder, and the related dataset is in the subfolder "data", and that the audio files are in the appropriate sub-subfolders "Insular" and "Pelagic".
 
