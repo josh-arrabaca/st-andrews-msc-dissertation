@@ -1,7 +1,9 @@
 # standrewsdissertation
 This code is for my MSc Data-Intensive Analysis dissertation entitled _"Convolutional Neural Networks for the Classification of Pseudorca crassidens Passive Acoustic Data"_. The latest version can be found in https://github.com/josh-arrabaca/standrewsdissertation/releases/latest.
 
-To run these, please ensure the code is in the top folder, and the related dataset is in the subfolder "data". 
+To run these, please ensure the code is in the top folder, and the related dataset is in the subfolder "data", and that the audio files are in the appropriate sub-subfolders "Insular" and "Pelagic".
+
+To make predictions, you can run at the command line: "python c_make_prediction.py filename.wav".
 
 The flow of experiments is as follows:
 1. For converting the audio files to spectrograms:
