@@ -1,6 +1,6 @@
 # standrewsdissertation
 
-The paper for the dissertation can be found here: ["Convolutional Neural Networks for the Classification of Pseudorca crassidens Passive Acoustic Data"_](https://github.com/josh-arrabaca/st-andrews-msc-dissertation/blob/main/Convolutional%20Neural%20Networks%20for%20the%20Classification%20of%20Pseudorca%20crassidens%20Passive%20Acoustic%20Audio%20Data.pdf)
+The paper for the dissertation can be found here: [Convolutional Neural Networks for the Classification of Pseudorca crassidens Passive Acoustic Data](https://github.com/josh-arrabaca/st-andrews-msc-dissertation/blob/main/Convolutional%20Neural%20Networks%20for%20the%20Classification%20of%20Pseudorca%20crassidens%20Passive%20Acoustic%20Audio%20Data.pdf)
 
 The code can be found in the "Code" subfolder. The latest version can be found in https://github.com/josh-arrabaca/standrewsdissertation/releases/tag/Submission3.
 
